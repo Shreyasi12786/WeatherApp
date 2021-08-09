@@ -106,6 +106,8 @@ const styles = StyleSheet.create({
   },
   highlight: {
     fontWeight: '700',
+    fontFamily:'Georama-Black',
+    fontSize:22,
   },
 });
 
